@@ -1,0 +1,58 @@
+Teve que chegar ao ponto de quase perder tudo para essas empresas tomarem posição. Como dizem antes tarde do que nunca, mas parabéns ela atitude.
+
+
+ruby:
+
+models
+
+controllers
+
+Views
+
+
+
+    it 'visitar a página' do
+        visit 'https://www.caixa.gov.br/'
+        puts page.title
+    end
+
+
+describe "Meu primeiro script" do
+
+    it "visitar página" do
+        visit 'https://www.caixa.gov.br'
+        puts page.title
+        
+    end
+        
+end
+
+
+
+
+
+
+
+
+
+
+Sua inscrição como Microempreendedor Individual - MEI foi realizada com sucesso e o seu número do CNPJ é 41.778.990/0001-70.
+
+Veja a seguir os serviços disponíveis para a sua empresa.
+
+
+
+
+
+
+
+Boa tarde, trabalho com teste de sistema, além dos itens acima, sugiro colocar tb na descrição: o Navegador utilizado, a versão do sistema. Sugiro que não seja uma breve descrição, pois quem analisar pode não entender o que o usuário escreveu. Descreva um passo a passo completo, não adianta colocar "Deu erro ao gerar a GRU" isso não diz nada para o desenvolvedor.
+
+
+
+
+
+
+
+
+
